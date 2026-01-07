@@ -1,0 +1,3 @@
+[submodule "gemini-live"]
+	path = gemini-live
+	url = https://github.com/Firelock-IO/wyoming-gemini-live.git
